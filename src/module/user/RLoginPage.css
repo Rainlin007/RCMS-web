@@ -1,0 +1,16 @@
+.default-div-outside {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-color: #161616;;
+}
+
+.default-div-inner {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
