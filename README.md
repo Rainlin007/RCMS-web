@@ -10,10 +10,12 @@ https://github.com/Rainlin007/RCMS-web
 
 https://github.com/Rainlin007/RCMS-Django
 
-包括用户登录，project分组，json数据等
+包括用户登录，project分组，json数据等功能
 
 ## 演示
 http://cms.rainlin.top
+用户名：test
+密码：test
 
 ## 作者
 Rainlin
@@ -22,6 +24,9 @@ Rainlin
 
 ## 示例
 ![登录](https://raw.githubusercontent.com/Rainlin007/RCMS-web/master/imgs/1.jpg)
+
 ![显示](https://raw.githubusercontent.com/Rainlin007/RCMS-web/master/imgs/2.jpg)
+
 ![增加](https://raw.githubusercontent.com/Rainlin007/RCMS-web/master/imgs/3.jpg)
+
 ![json](https://raw.githubusercontent.com/Rainlin007/RCMS-web/master/imgs/4.jpg)
